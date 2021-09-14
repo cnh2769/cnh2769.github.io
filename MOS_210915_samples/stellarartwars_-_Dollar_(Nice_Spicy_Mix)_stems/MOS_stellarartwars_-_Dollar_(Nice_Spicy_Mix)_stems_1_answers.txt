@@ -1,0 +1,4 @@
+MOS_stellarartwars_-_Dollar_(Nice_Spicy_Mix)_stems_1_1.mp4	mdxnet_LB_B_vocals.wav
+MOS_stellarartwars_-_Dollar_(Nice_Spicy_Mix)_stems_1_2.mp4	demucs48_hq_mix_vocals.wav
+MOS_stellarartwars_-_Dollar_(Nice_Spicy_Mix)_stems_1_3.mp4	source-02.wav
+MOS_stellarartwars_-_Dollar_(Nice_Spicy_Mix)_stems_1_4.mp4	spleeter_sample_model.wav
