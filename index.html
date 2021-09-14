@@ -11,8 +11,9 @@
   <h1>MOS TEST for SSE</h1>
 
   안녕하세요.<br>
-  MOS 청취 평가에 참여해 주셔서 진심으로 감사합니다.<br>
-  응답해주신 결과를 토대로 baseline 모델을 선정하고, 성능 개선을 이어나갈 예정입니다.<br>
+  MOS에 참여해 주셔서 진심으로 감사합니다.<br>
+  저희 팀에서 자체적 학습 및 개선이 가능할 것으로 판단되는 모델들에 대해 청취평가를 진행하고자 합니다.<br>
+  응답 결과 및 정량평가 결과를 기반으로 baseline 모델을 선정하고, 해당 모델에 대해 집중적인 성능 개선을 진행할 예정입니다.<br>
   <br>
   [평가 방법]<br>
   - 각 분리음성 전후 샘플을 듣고 아래 설문 조사 링크를 통해 <b>음성 분리 품질</b>에 대해 1~5점으로 평가해주세요. <br> 
@@ -21,7 +22,7 @@
   <h2>Test Samples</h2>
   <table>
     <tbody>
-      <tr><script>document.write('<b>Test '+ i + ' ~ ' + (i+3) + ':</b> "음성 분리 전 원본"');</script> <audio src="Per_-_Orange_(Room_29_MMXIII)/Per_-_Orange_(Room_29_MMXIII)_1_mix.mp4" type="audio/mp4" controls> </tr>
+      <tr><script>document.write('<b>Test '+ i + ' ~ ' + (i+3) + ':</b> 음성 분리 전 원본');</script> <audio src="MOS_210915_samples/Per_-_Orange_(Room_29_MMXIII)/Per_-_Orange_(Room_29_MMXIII)_1_mix.mp4" type="audio/mp4" controls> </tr>
       <tr><td><script>document.write(i); i+=1</script></td><td><audio src="NSingerMOS/GT_46_thirty_001.wav" type="audio/wav" controls></audio></td></tr>
       <tr><td><script>document.write(i); i+=1</script></td><td><audio src="NSingerMOS/nsingerA_46_thirty_001.wav" type="audio/wav" controls></audio></td></tr>
       <tr><td><script>document.write(i); i+=1</script></td><td><audio src="NSingerMOS/ATK_46_thirty_001.wav" type="audio/wav" controls></audio></td></tr>
